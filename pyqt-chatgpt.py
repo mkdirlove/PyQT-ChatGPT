@@ -59,7 +59,7 @@ class Ui_ChatGPT(object):
         
     def getInputValue(self):
         query = self.lineEdit.text()
-        openai.api_key = "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"
+        openai.api_key = "PUT_YOUR_API_KEY_HERE"
         response = openai.Completion.create(
         model="text-davinci-003",
         prompt=f"{query}",
