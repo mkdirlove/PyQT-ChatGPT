@@ -6,8 +6,9 @@
   <br>
 </h1>
 
-## Sample Output
-
 <p align="center">
-    <img src="https://github.com/mkdirlove/PyQT-ChatGPT/blob/main/chatgpt-qt.png" alt="PyQT-ChatGPT">
+  <br>
+  Sample Output
+  <br>
+  <img src="https://github.com/mkdirlove/PyQT-ChatGPT/blob/main/chatgpt-qt.png" alt="PyQT-ChatGPT">
 </p>
