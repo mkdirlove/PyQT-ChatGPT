@@ -18,7 +18,7 @@ git clone https://github.com/mkdirlove/PyQT-ChatGPT.git
 cd PyQT-ChatGPT
 ```
 ```
-python3 chatgpt-qt.py
+python3 pyqt-chatgpt.py
 ```
 
 ### Then edit file to match your config
