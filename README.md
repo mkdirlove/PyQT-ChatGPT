@@ -24,12 +24,13 @@ python3 chatgpt-qt.py
 ### Then edit file to match your config
 
 Open the file in any text / code editor and go to line 62 and put your API key.
+
 If you don't have an API key, you can create at https://beta.openai.com/account/api-keys
 
 ```python
 def getInputValue(self):
     query = self.lineEdit.text()
-    openai.api_key = "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"
+    openai.api_key = "PUT_YOUR_API_KEY_HERE"
     response = openai.Completion.create(
     model="text-davinci-003",
     prompt=f"{query}",
