@@ -7,6 +7,7 @@
 </h1>
 
 ## Sample Output
-<center>
-![PyQT-ChatGPT](https://github.com/mkdirlove/PyQT-ChatGPT/blob/main/chatgpt-qt.png)
-</center>
+
+<p align="center">
+    <img src="[http://material-bread.org/logo-shadow.svg](https://github.com/mkdirlove/PyQT-ChatGPT/blob/main/chatgpt-qt.png)" alt="PyQT-ChatGPT">
+</p>
