@@ -7,4 +7,6 @@
 </h1>
 
 ## Sample Output
+<center>
 ![PyQT-ChatGPT](https://github.com/mkdirlove/PyQT-ChatGPT/blob/main/chatgpt-qt.png)
+</center>
