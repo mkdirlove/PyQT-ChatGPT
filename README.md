@@ -8,16 +8,16 @@
 
 ### Installation ang usage
 
-```
+```sh
 python3 -m pip install PyQt5 openai
 ```
-```
+```sh
 git clone https://github.com/mkdirlove/PyQT-ChatGPT.git
 ```
-```
+```sh
 cd PyQT-ChatGPT
 ```
-```
+```sh
 python3 pyqt-chatgpt.py
 ```
 
