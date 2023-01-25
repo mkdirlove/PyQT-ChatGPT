@@ -9,5 +9,5 @@
 ## Sample Output
 
 <p align="center">
-    <img src="[http://material-bread.org/logo-shadow.svg](https://github.com/mkdirlove/PyQT-ChatGPT/blob/main/chatgpt-qt.png)" alt="PyQT-ChatGPT">
+    <img src="https://github.com/mkdirlove/PyQT-ChatGPT/blob/main/chatgpt-qt.png" alt="PyQT-ChatGPT">
 </p>
